@@ -32,7 +32,6 @@ Quorum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and i
 ### Prerequisites
 ---
   - [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)
- Maker](https://github.com/synechron-finlabs/quorum-maker)
   - [Solidity](https://github.com/ethereum/solidity) compiler
 
 ### Todos
