@@ -1,2 +1,4 @@
 quorum-java-tutorial/libs/*.jar
 quorum-java-tutorial/out/
+quorum-nodejs-tutorial/node_modules/
+quorum-nodejs-tutorial/package-lock.json
