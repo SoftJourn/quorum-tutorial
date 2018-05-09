@@ -1,0 +1,8 @@
+{
+  "name": "quorum_nodejs_tutorial",
+  "version": "0.0.1",
+  "dependencies": {
+    "web3-quorum": "^0.1.1",
+    "prompt": "*"
+  }
+}
